@@ -7429,6 +7429,9 @@ h1, h2, h3, h4, h5,
     font-weight: 400;
     color: rgba(0, 0, 0, 0.6);
     padding: 0 20px; }
+    .colorlib-footer .socials i {
+      font-size: 30px;
+    }
     #colorlib-aside .colorlib-footer span {
       display: block; }
     #colorlib-aside .colorlib-footer ul {
@@ -8111,6 +8114,9 @@ textarea.form-control {
         color: #000000; }
       .ftco-social li a:hover {
         color: #fff; }
+      .ftco-social i {
+        font-size: 30px;
+      }
 
 #map {
   height: 400px;
@@ -8544,3 +8550,4 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
