@@ -7598,6 +7598,9 @@ h1, h2, h3, h4, h5,
       font-size: 24px;
       color: #bfbfbf;
       font-weight: 300; }
+    .hero-wrap .text .orange-heading {
+      color: #f05d23;
+    }
     .hero-wrap .text h1 {
       letter-spacing: 1px;
       font-weight: 900; }
