@@ -12,7 +12,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
+google_site_verification: Yc5HGuCKPmz7dZcFFvZS1pRrIHPUbzuPC-MY8irefLE
 nav:
   - name: Home
     url: index.html
