@@ -12,7 +12,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-google_site_verification: Yc5HGuCKPmz7dZcFFvZS1pRrIHPUbzuPC-MY8irefLE
 nav:
   - name: Home
     url: index.html
@@ -22,5 +21,7 @@ nav:
     url: publications.html
   - name: Teaching
     url: teaching.html
+  - name: Blog
+    url: blog.html
   - name: Contact
     url: contact.html
