@@ -8553,4 +8553,26 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+/*
+Own style
+ */
 
+.publication-block {
+    margin-top: 30px;
+;
+}
+
+.publication-block p {
+  margin-bottom: 0;
+}
+.publication-block .paper-title {
+
+}
+
+.publication-block .conference {
+
+}
+
+.publication-block .author {
+
+}
