@@ -15,13 +15,13 @@ plugins:
 nav:
   - name: Home
     url: index.html
-  - name: About
+  - name: About 🙋‍♂️
     url: about.html
-  - name: Publications
+  - name: Publications 📝
     url: publications.html
-  - name: Teaching
+  - name: Teaching 👨‍🏫
     url: teaching.html
-  - name: Blog
+  - name: Blog 📗
     url: blog.html
-  - name: Contact
+  - name: Contact ✉️
     url: contact.html
