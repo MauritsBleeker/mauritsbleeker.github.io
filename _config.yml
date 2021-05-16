@@ -14,14 +14,14 @@ plugins:
   - jekyll-feed
 nav:
   - name: Home
-    url: index.html
+    url: index
   - name: About 🙋‍♂️
-    url: about.html
+    url: about
   - name: Publications 📝
-    url: publications.html
+    url: publications
   - name: Teaching 👨‍🏫
-    url: teaching.html
+    url: teaching
   - name: Blog 📗
-    url: blog.html
+    url: blog
   - name: Contact ✉️
-    url: contact.html
+    url: contact
